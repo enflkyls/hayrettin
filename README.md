@@ -1,0 +1,2 @@
+# hayrettin
+Hayrettinin Özel Kodları
